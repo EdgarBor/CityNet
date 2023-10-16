@@ -1,0 +1,15 @@
+:root {
+    --backColor: #b1294a;
+    --whiteColor: #ffffff;
+    --blackColor: black;
+    --border: #dbdbdb;
+    --greyColor: #f9f9f9;
+    --shadWhite: #eee;
+    --fontColor: #564d4d;
+    --backGrey: #f4f4f4;
+    --backbtn: #efd4db;
+    --backPink: #f8eaed;
+    --backHover: rgb(131, 25, 25);
+    --pinkHover: #f8eaed;
+    --textColor: #717171;
+}
